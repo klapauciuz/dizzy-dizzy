@@ -1,2 +1,2 @@
 # dizzy-dizzy
-new experiments with my old digital art
+new interactive experiments with my old digital art. you can click anywhere but be careful...
