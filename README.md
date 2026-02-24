@@ -1,5 +1,5 @@
 # dizzy-dizzy
-new interactive experiments with my old digital art. you can click anywhere but please be careful...
+just turned out my old art into svg and html experiments. you could click anywhere but please be careful...
 https://klapauciuz.github.io/dizzy-dizzy/
 
 ㅤ
